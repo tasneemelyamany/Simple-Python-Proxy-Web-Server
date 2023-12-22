@@ -22,6 +22,8 @@ Handles different types of errors gracefully, providing appropriate HTTP respons
 Multi-Threading:
 
 Utilizes multi-threading to handle multiple client connections concurrently, allowing for improved responsiveness.
+
+
 **How to Use:
 
 Run the Server:
