@@ -2,7 +2,7 @@
 This project is a simple proxy web server implemented in Python, designed to handle basic HTTP requests. The server acts as an intermediary between clients and web servers, forwarding client requests and caching server responses for improved performance. 
 It includes features such as request logging, error handling, and caching to enhance the overall web browsing experience.
 
-Key Features:
+** Key Features:
 
 Proxy Functionality:
 
@@ -22,7 +22,7 @@ Handles different types of errors gracefully, providing appropriate HTTP respons
 Multi-Threading:
 
 Utilizes multi-threading to handle multiple client connections concurrently, allowing for improved responsiveness.
-How to Use:
+**How to Use:
 
 Run the Server:
 
